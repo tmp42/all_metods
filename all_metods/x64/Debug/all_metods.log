@@ -1,3 +1,0 @@
-﻿  functions.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
-  all_metods.vcxproj -> E:\учеба\диплом\all_metods\x64\Debug\all_metods.exe
-  all_metods.vcxproj -> E:\учеба\диплом\all_metods\x64\Debug\all_metods.pdb (Partial PDB)
